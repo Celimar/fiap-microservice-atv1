@@ -1,9 +1,0 @@
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\bin\Release\netcoreapp2.1\GeekBurger.Products.Contract.deps.json
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\bin\Release\netcoreapp2.1\GeekBurger.Products.Contract.dll
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\bin\Release\netcoreapp2.1\GeekBurger.Products.Contract.pdb
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\obj\Release\netcoreapp2.1\GeekBurger.Products.Contract.csprojAssemblyReference.cache
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\obj\Release\netcoreapp2.1\GeekBurger.Products.Contract.AssemblyInfoInputs.cache
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\obj\Release\netcoreapp2.1\GeekBurger.Products.Contract.AssemblyInfo.cs
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\obj\Release\netcoreapp2.1\GeekBurger.Products.Contract.csproj.CoreCompileInputs.cache
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\obj\Release\netcoreapp2.1\GeekBurger.Products.Contract.dll
-C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products.Contract\obj\Release\netcoreapp2.1\GeekBurger.Products.Contract.pdb
