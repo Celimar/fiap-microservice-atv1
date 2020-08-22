@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JcVQZxrx87ztzzRdp4maopcDww+yRtS1hzLIt9yQiJQWFTN8YG+WMhVOKSKXwO8fmm2s9h3wznIU6phfJ6+oXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celim\\source\\repos\\GeekBurger.Products\\GeekBurger.Products.Contract\\GeekBurger.Products.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celim\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\celim\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\celim\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\celim\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\celim\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\celim\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\celim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

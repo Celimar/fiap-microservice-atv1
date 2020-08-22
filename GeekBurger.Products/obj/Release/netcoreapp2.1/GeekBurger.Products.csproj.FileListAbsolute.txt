@@ -1,0 +1,20 @@
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.deps.json
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.runtimeconfig.json
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.runtimeconfig.dev.json
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.dll
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.pdb
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.Contract.dll
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\GeekBurger.Products.Contract.pdb
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.csprojAssemblyReference.cache
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.AssemblyInfoInputs.cache
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.AssemblyInfo.cs
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.csproj.CoreCompileInputs.cache
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.RazorAssemblyInfo.cache
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.RazorAssemblyInfo.cs
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.RazorTargetAssemblyInfo.cache
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.csproj.CopyComplete
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.dll
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.pdb
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\obj\Release\netcoreapp2.1\GeekBurger.Products.genruntimeconfig.cache
+C:\Users\celim\source\repos\GeekBurger.Products\GeekBurger.Products\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\GeekBurgerProductsCboAppSvc - Web Deploy\profile.arm.json
